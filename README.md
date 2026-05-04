@@ -14,7 +14,7 @@ This repository contains the experimental code for the paper *"Listening to the 
 
 | Notebook | Description | Paper Sections |
 |---------|-------------|----------------|
-| `01_Emotion_Distribution.ipynb` | Data preprocessing |
+| `01_Emotion_Distribution.ipynb` | Data preprocessing | Section 3, Figure 1 |
 | `02_Baselines.ipynb` | All baseline models (TF-IDF + LR/SVM/RF, CountVectorizer, Vanilla BERT, Subreddit-only) | Section 4.3, Table 2 |
 | `03_Main_Models.ipynb` | Main multimodal model training, length-matched evaluation across multiple prevalences, error analysis, and publication-ready figures | Sections 4–6, Table 1, All Figures |
 
